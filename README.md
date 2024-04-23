@@ -1,4 +1,4 @@
-# FairCoin
+# FairCoin.Group
 
 FairCoin is a carrier/tool used to measure the value of money, which is not for the purpose of trading and has no value
 
