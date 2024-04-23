@@ -1,0 +1,2 @@
+# FairCoin
+FairCoin
